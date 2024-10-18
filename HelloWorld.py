@@ -1,3 +1,6 @@
 print("Hello World")
 print("Testing with Jenkins Freestyle job and Github Webhooks!")
 print("I love coding!!")
+print("Hello World")
+print("Testing with Jenkins Freestyle job and Github Webhooks!")
+print("I love coding!!")
